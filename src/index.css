@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@keyframes progressBarStripes {
+  0% {
+    background-position: 1rem 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
+
+.animate-\[progress-bar-stripes_1s_linear_infinite\] {
+  animation: progressBarStripes 1s linear infinite;
+}

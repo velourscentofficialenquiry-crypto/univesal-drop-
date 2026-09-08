@@ -1,0 +1,8 @@
+{
+  "name": "Universal Drop",
+  "description": "Universal AirDrop-like cross-platform file and text sharing between Windows, macOS, iOS, and Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
